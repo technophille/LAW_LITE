@@ -1,0 +1,30 @@
+[
+    {
+        "Template_Name": "Legal Notice Format",
+        "Content": "[Sender's Name]\n[Address]\n[Date]\n\nTo,\n[Recipient's Name]\n[Address]\n\nSubject: Legal Notice under Section [Relevant Act] for [Cause of Action]\n\nSir/Madam,\n\nUnder the instructions of my client [Client Name], resident of [Address], I hereby call upon you to note the following:\n1. That my client... [Description of relationship/transaction]\n2. That... [Description of dispute/grievance]\n3. That despite repeated requests... [Failure of recipient]\n4. That you are hereby called upon to [Demand: Pay sum/Vacate/etc] within [Days] days of receipt of this notice, failing which my client shall be constrained to initiate legal proceedings against you at your risk and cost.\n\nCopy retained in my office for record.\n\n[Advocate Name]\n[Signature]"
+    },
+    {
+        "Template_Name": "Consumer Complaint Format",
+        "Content": "BEFORE THE DISTRICT CONSUMER DISPUTES REDRESSAL COMMISSION, [DISTRICT]\n\nComplaint Case No. [Year/Number]\n\nIn the matter of:\n[Complainant Name]\n[Address]     ... Complainant\n\nVersus\n\n[Opposite Party Name/Company]\n[Address]     ... Opposite Party\n\nCOMPLAINT UNDER SECTION 35 OF THE CONSUMER PROTECTION ACT, 2019\n\nRespectfully Sheweth:\n1. That the complainant is a consumer as defined under the Act...\n2. That the complainant purchased/availed service... [Details of transaction]\n3. That... [Details of defect/deficiency]\n4. That the complainant approached the opposite party... [Correspondence]\n5. That the cause of action arose on... [Jurisdiction]\n6. Relief Claimed:\n   a) Refund of Rs. [Amount]\n   b) Compensation for harassment Rs. [Amount]\n   c) Litigation costs Rs. [Amount]\n\n[Complainant Signature]\nVerification: Verified that contents are true..."
+    },
+    {
+        "Template_Name": "Rental Agreement Checklist",
+        "Content": "1. Date and Place of execution.\n2. Details of Landlord and Tenant (Name, Father's Name, Address, Aadhaar).\n3. Description of the Property (Address, fixtures, fittings).\n4. Rent Amount and Due Date.\n5. Security Deposit amount and refund conditions.\n6. Tenancy Period (Start and End date).\n7. Notice Period for termination.\n8. Maintenance responsibilities (Minor vs Major repairs).\n9. Usage clause (Residential/Commercial).\n10. Utility bill payments (Electricity, Water, Maintenance).\n11. Rent Increase clause (if renewing).\n12. Signatures of both parties and two witnesses."
+    },
+    {
+        "Template_Name": "Employment Contract Checklist",
+        "Content": "1. Job Title and Description.\n2. Compensation and Benefits (Salary, PF, Bonus).\n3. Employment Type (Full-time/Part-time/Contract).\n4. Probation Period.\n5. Work Hours and Leave Policy.\n6. Termination Clause (Notice period, grounds for dismissal).\n7. Confidentiality / Non-Disclosure Agreement (NDA).\n8. Non-Compete Clause (if applicable).\n9. Intellectual Property Rights (Work for hire).\n10. Governing Law and Dispute Resolution."
+    },
+    {
+        "Template_Name": "NDA Template Structure",
+        "Content": "1. PARTIES: Disclosing Party and Receiving Party.\n2. DEFINITION OF CONFIDENTIAL INFORMATION: What data is protected.\n3. EXCLUSIONS: What is NOT confidential (public domain, prior knowledge).\n4. OBLIGATIONS: How to handle the data (No disclosure, limited use).\n5. TERM: Duration of the agreement (e.g., 2 years, indefinite).\n6. RETURN OF DATA: What happens to data on termination.\n7. REMEDIES: Consequences of breach (Injunction, Damages).\n8. JURISDICTION: Courts governing the agreement."
+    },
+    {
+        "Template_Name": "Cyber Complaint Steps",
+        "Content": "1. Register at cybercrime.gov.in (National Cyber Crime Reporting Portal).\n2. Select Category (Women/Child vs Other Cyber Crimes).\n3. Create Login/Submit Anonymously (for certain crimes).\n4. Incident Details: Date, Time, Where it happened (Social Media/Email/Website).\n5. Suspect Details: If known (Name, Phone, Email).\n6. Upload Evidence: Screenshots, Chat logs, URL, Bank Statement.\n7. Submit and Note the Acknowledgement Number.\n8. Visit nearest Cyber Cell if FIR registration is required by local police."
+    },
+    {
+        "Template_Name": "FIR Filing Steps (BNSS Section 173)",
+        "Content": "1. Information in cognizable cases (Section 173 BNSS): Every information relating to the commission of a cognizable offence, irrespective of the area where the offence is committed, may be given orally or by electronic communication to an officer in charge of a police station.\n\n2. Modes of Reporting:\n   (i) Orally: It shall be reduced to writing by the officer or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it.\n   (ii) Electronic Communication: It shall be taken on record by the officer on being signed within three days by the person giving it.\n\n3. Women and Special Cases:\n   - Information given by a woman against whom an offence under specific sections (e.g., rape, sexual harassment) is alleged shall be recorded by a woman police officer or any woman officer.\n   - For victims with mental or physical disability, information shall be recorded at their residence or convenient place, in presence of an interpreter/special educator, and must be videographed.\n\n4. Copy of FIR:\n   - A copy of the information as recorded shall be given forthwith, free of cost, to the informant or the victim.\n\n5. Preliminary Enquiry: For offences punishable with 3-7 years imprisonment, the officer may conduct a preliminary enquiry (within 14 days) to ascertain if a prima facie case exists before investigation."
+    }
+]
